@@ -1,2 +1,2 @@
 ## Nuh uh
-<img src="siydt.png" alt="Lox">
+<img src="siydt.png" width=400 alt="Lox">
